@@ -6,6 +6,6 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> </div>
     </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waitAmhee&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waitAmhee)](https://github.com/anuraghazra/github-readme-stats)
     

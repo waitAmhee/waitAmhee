@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Wait%20a%20Minhee&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=200&section=header&text=Wait%20a%20Minhee&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Backend Engineer | Spring Boot | Cloud Architecture</h3>
@@ -14,19 +14,18 @@
 
 ---
 
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,aws,githubactions,nginx,linux,python,pytorch" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,aws,linux,githubactions,python,pytorch" />
 </p>
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=waitAmhee&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waitAmhee&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 ---
 

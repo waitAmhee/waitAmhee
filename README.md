@@ -43,15 +43,9 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=waitAmhee)](https://github.com/waitAmhee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waitAmhee)](https://github.com/waitAmhee/github-readme-stats)
-
----
-
-### 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=waitAmhee&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=waitAmhee&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=waitAmhee&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---

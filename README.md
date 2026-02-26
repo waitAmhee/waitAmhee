@@ -42,4 +42,5 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&type=waving&color=0:D8B4E2,50:F3C4FB,100:E879F9&height=200&section=footer&animation=fadeIn" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4E2,50:F3C4FB,100:E879F9&height=200&section=footer&animation=fadeIn" />
+</p>

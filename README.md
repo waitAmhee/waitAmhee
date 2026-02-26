@@ -7,9 +7,8 @@
 ---
 
 ### 👩🏻‍💻 About Me
-- 🎓 Computer Engineering @ SMWU
+- 🎓 B.S. in ICT Convergence Engineering (IT Engineering), Sookmyung Women’s University  
 - 🚀 Building scalable backend systems
-- ☁️ DevOps & Cloud infrastructure enthusiast
 - 🔥 Interested in concurrency, caching, and system design
 
 ---

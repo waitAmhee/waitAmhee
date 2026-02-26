@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=200&section=header&text=Wait%20a%20Minhee&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D8B4E2,50:F3C4FB,100:E879F9&height=200&section=header&text=Hi%20👋%20I'm%20Minhee&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+
 </p>
 
-<h3 align="center">Backend Engineer | Spring Boot | Cloud Architecture</h3>
-
+<h3 align="center">Backend Engineer · Spring Boot · Cloud & System Architecture</h3>
 ---
 
 ### 👩🏻‍💻 About Me
+
 - 🎓 B.S. in ICT Convergence Engineering (IT Engineering), Sookmyung Women’s University  
 - 🚀 Building scalable backend systems
 - 🔥 Interested in concurrency, caching, and system design
@@ -41,4 +42,4 @@
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:FF1493&height=200&section=footer&animation=fadeIn" /></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&type=waving&color=0:D8B4E2,50:F3C4FB,100:E879F9&height=200&section=footer&animation=fadeIn" /></p>

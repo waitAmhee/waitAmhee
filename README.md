@@ -3,7 +3,8 @@
 
 </p>
 
-<h3 align="center">Backend Engineer · Spring Boot · Cloud & System Architecture</h3>
+<h3 align="center">Backend Engineer | Spring Boot | Cloud Architecture</h3>
+
 ---
 
 ### 👩🏻‍💻 About Me
